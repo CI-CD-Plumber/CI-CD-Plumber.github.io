@@ -1,0 +1,25 @@
+.about-container {
+    margin: 4em;
+}
+
+.developer-list {
+    display: flex;
+}
+
+.person-card {
+    margin-right: 1em;
+}
+
+.person-img {
+    border-radius: 30px;
+}
+
+.title {
+    color: #F0F1F3;
+    font-size: 1.6em;
+}
+
+.name-text {
+    color: #F0F1F3;
+    font-size: em;
+}
