@@ -23,3 +23,7 @@
     color: #F0F1F3;
     font-size: em;
 }
+
+.link {
+    text-decoration: none;
+}
