@@ -54,3 +54,20 @@ body {
     list-style: disc; /* Use bullet points for nested lists */
     color: #fff; /* Make bullet points white */
 }
+
+.gif-section {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.gif-section h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.gif-section img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
