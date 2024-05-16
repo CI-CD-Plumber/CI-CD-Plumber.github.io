@@ -1,5 +1,8 @@
 .home-container {
-    margin: 4em;
+    display: flex;
+    gap:20px;
+    flex-direction: column;
+    align-items: center;
 }
 
 .card {
@@ -13,9 +16,8 @@
 
 .logo-container {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    margin-bottom: 5em;
+    gap:20px;
 }
 
 .title {
